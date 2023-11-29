@@ -16,7 +16,7 @@ function printPrimes(lowerLimit, upperLimit) {
     return true;
   }
   
-  const start = 17;
+  const start = 9;
   const end = 19;
   
   printPrimes(start, end);
