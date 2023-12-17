@@ -1,4 +1,4 @@
-let a ="12341";
+let a ="abcda";
 //for(i=0;i<a.length;i++){
     
     if(a.charAt(0)==a.charAt(a.length-1)){
@@ -6,4 +6,7 @@ let a ="12341";
     else{
         console.log("not same dgit");
     }
+// const prompt =require('prompt-sync')();
+// const a = prompt(("write your name"))
+// console.log(a)
 
