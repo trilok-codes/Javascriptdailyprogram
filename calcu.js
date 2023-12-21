@@ -28,19 +28,19 @@ function Div() {
   console.log(sum);
 }
 
-const result = parseInt(prompt('Enter the digit: '));
+const result = (prompt('Enter the digit: '));
 
 switch (result) {
-  case 1:
+  case "a":
     Add();
     break;
-  case 2:
+  case "b":
     Sub();
     break;
-  case 3:
+  case "c":
     Mul();
     break;
-  case 4:
+  case "d":
     Div();
     break;
   default:
