@@ -6,3 +6,4 @@ a=b;
 b=temp;
 
 console.log(`valueof a is ${a} value of b is ${b}`)
+console.log(temp)
